@@ -1,2 +1,6 @@
 # Foundation-of-Computer-Science-Course-Project
-This is my implementation of the assigned Project
+
+Nome: 		Dario
+Cognome: 	Bertazioli
+
+N.Mat:		847761
